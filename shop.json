@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "1 консультация",
+        "price": 50,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0SDGEQQufr9qdBTuDDyTGJOvU8TP7Rz7hg&s",
+        "vendor_code": "1"
+    },
+    {
+        "id": 2,
+        "title": "Составить договор",
+        "price":   150,
+        "img": "https://textovich.com/wp-content/uploads/2023/03/243f55984fc2b5d8be3bff8c6106d731-1058x660.jpg",
+        "vendor_code": "2"
+    },
+    {
+        "id": 3,
+        "title": "Помощь в суде",
+        "price": 300,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpE9k-MIfaGdcGH22Fq1TAwwUY1ktgm6x4eg&s",
+        "vendor_code": "3"
+    },
+    {
+        "id": 1,
+        "title": "Раздел имущества",
+        "price": 200,
+        "img": "https://static.tildacdn.com/tild3266-6138-4161-a338-316562303063/unnamed-6.png",
+        "vendor_code": "4"
+    },
+    {
+        "id": 2,
+        "title": "защита собственности",
+        "price": 300,
+        "img": "https://mronline.org/wp-content/uploads/2020/02/Flickr-private-property-nmb-1-Myrtle-Beach-TheDigitel-Flickr.jpg",
+        "vendor_code": "5"
+    },
+    {
+        "id": 3,
+        "title": "уголовные дела",
+        "price": 500,
+        "img": "https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/03/saul-goodman-memes-saul-goodman-in-court-550x309.jpeg",
+        "vendor_code": "6"
+    }
+]
