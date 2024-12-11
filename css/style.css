@@ -4,7 +4,7 @@
 }
 body {
     font-family: Helvetica, Arial, sans-serif;
-    background-image: url('/site.github.io/photos/fonjel.jpg');
+    background-image: url('/photos/fonjel.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -18,7 +18,7 @@ body {
 header {
     font-size: 3.5em;
     padding: 1%;
-    background-image: url('/site.github.io/photos/beterrr.jpg');
+    background-image: url('/photos/beterrr.jpg');
     color: #FFEE38 ;
     text-align: center;
     align-items: center;
@@ -78,13 +78,6 @@ nav a:hover{
     right: 350px;
     
 }
-  
-.office-photo{
-    position: absolute;
-    top: 32%;
-    left: 50%;
-
-}
 
 li {
     color: white;
@@ -108,13 +101,20 @@ color: #FFEE38 ;
 background-color: black;
     padding: 10px; 
     border-radius: 10px; 
-    width: 25%;
-
-    
+    display: inline-block; /* Позволяет фону охватывать текст */
 }
 
 h3 {
     color: rgb(255, 255, 255);
+}
+
+h4 {
+
+    color: #FFEE38 ;
+    background-color: black;
+        padding: 10px; 
+        border-radius: 10px; 
+        min-width: 60%;
 }
 
 .forma {
@@ -123,6 +123,7 @@ h3 {
     padding: 10px;
     position: relative;
     background-color:#431b1b ;
+    
 }
 
 .card-text {
@@ -149,21 +150,19 @@ h3 {
     
 }
 .form {
-    background-image: url('/site.github.io/photos/speak1.jpg');
+    background-image: url('/photos/speak1.jpg');
     padding: 25px;
     border-radius: 20px;
     max-width: 600px;
     margin: 0 auto;
-    color: #fff;
-    
-
+    color: #fff;  
 }
 
 .footer {
     background-color: #100f0f; 
     color: #fff; 
     position: absolute;
-
+    max-height: auto;
     text-align: center; 
     width: 100%;    
 }
@@ -210,3 +209,4 @@ li {
             margin-left: 46%;
 
 }
+
