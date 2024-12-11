@@ -210,3 +210,19 @@ li {
 
 }
 
+/* Адаптивные стили */
+@media (max-width: 600px) {
+    nav {
+        flex-direction: column; 
+        padding-bottom: px; 
+    }
+
+    nav a {
+        width: 100%;
+        text-align: center;
+        padding: 2px; 
+        border-top: 3px solid #7a713d;
+        margin-bottom: 1px;
+    }
+}
+
