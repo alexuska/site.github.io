@@ -224,5 +224,9 @@ li {
         border-top: 3px solid #7a713d;
         margin-bottom: 1px;
     }
+    .map {
+        max-width: 300px;
+        max-height: 300px;
+    }
 }
 
